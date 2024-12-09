@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb06dc58-ebb4-4321-80fd-50288b58bfe3" name="Changes" comment="Обновление сериализатора" />
+    <list default="true" id="bb06dc58-ebb4-4321-80fd-50288b58bfe3" name="Changes" comment="Добавление необходимых разрешений">
+      <change beforePath="$PROJECT_DIR$/tutorials/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/snippets/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733759264710</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Добавление необходимых разрешений">
+      <option name="closed" value="true" />
+      <created>1733759409330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733759409330</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +128,7 @@
     <MESSAGE value="Добавление представлений для пользователя" />
     <MESSAGE value="Ассоциация сниппетов с пользователями" />
     <MESSAGE value="Обновление сериализатора" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновление сериализатора" />
+    <MESSAGE value="Добавление необходимых разрешений" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление необходимых разрешений" />
   </component>
 </project>
