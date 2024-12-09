@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb06dc58-ebb4-4321-80fd-50288b58bfe3" name="Changes" comment="Добавление ограничений на уровне объекта" />
+    <list default="true" id="bb06dc58-ebb4-4321-80fd-50288b58bfe3" name="Changes" comment="Гиперссылки в API" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +131,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733759792274</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Создание единой точки входа">
+      <option name="closed" value="true" />
+      <created>1733760088082</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733760088082</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Создание точки входа для html-представления сниппетов">
+      <option name="closed" value="true" />
+      <created>1733760187198</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733760187198</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Гиперссылки в API">
+      <option name="closed" value="true" />
+      <created>1733760226428</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733760226428</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +169,9 @@
     <MESSAGE value="Добавление необходимых разрешений" />
     <MESSAGE value="Добавление возможности аутентификации" />
     <MESSAGE value="Добавление ограничений на уровне объекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление ограничений на уровне объекта" />
+    <MESSAGE value="Создание единой точки входа" />
+    <MESSAGE value="Создание точки входа для html-представления сниппетов" />
+    <MESSAGE value="Гиперссылки в API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Гиперссылки в API" />
   </component>
 </project>
