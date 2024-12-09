@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb06dc58-ebb4-4321-80fd-50288b58bfe3" name="Changes" comment="Использование общего класса">
-      <change beforePath="$PROJECT_DIR$/tutorials/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/snippets/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/snippets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/snippets/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="bb06dc58-ebb4-4321-80fd-50288b58bfe3" name="Changes" comment="Обновление сериализатора" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,13 +75,49 @@
       <option name="project" value="LOCAL" />
       <updated>1733758822939</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Обновление модели">
+      <option name="closed" value="true" />
+      <created>1733759001422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733759001422</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавление представлений для пользователя">
+      <option name="closed" value="true" />
+      <created>1733759153199</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733759153199</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ассоциация сниппетов с пользователями">
+      <option name="closed" value="true" />
+      <created>1733759214758</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733759214758</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Обновление сериализатора">
+      <option name="closed" value="true" />
+      <created>1733759264710</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733759264710</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Объекты Requests и Responses" />
     <MESSAGE value="Рефакторинг представлений" />
     <MESSAGE value="Использование общего класса" />
-    <option name="LAST_COMMIT_MESSAGE" value="Использование общего класса" />
+    <MESSAGE value="Обновление модели" />
+    <MESSAGE value="Добавление представлений для пользователя" />
+    <MESSAGE value="Ассоциация сниппетов с пользователями" />
+    <MESSAGE value="Обновление сериализатора" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновление сериализатора" />
   </component>
 </project>
