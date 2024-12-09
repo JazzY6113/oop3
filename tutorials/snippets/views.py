@@ -7,6 +7,13 @@ from .models import Snippet
 from .permissions import IsOwnerOrReadOnly
 from .serializers import SnippetSerializer, UserSerializer
 
+class UserViewSet(viewsets.ReadOnlyModelViewSet):
+   """
+   This viewset automatically provides `list` and `retrieve` actions.
+   """
+   queryset = User.objects.all()
+   serializer_class = UserSerializer
+
 class UserList(generics.ListAPIView):
    queryset = User.objects.all()
    serializer_class = UserSerializer
